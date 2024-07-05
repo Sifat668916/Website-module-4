@@ -1,0 +1,16 @@
+table tr td{
+    border: 2px solid red;
+    padding: 5px 10px ;
+}
+table{
+    width: 70%;
+    border-collapse: collapse;
+    margin: 10px auto;
+}
+main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px auto;
+}
